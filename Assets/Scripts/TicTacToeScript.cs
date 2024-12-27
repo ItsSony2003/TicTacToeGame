@@ -593,7 +593,7 @@ public class NewBehaviourScript : MonoBehaviour
         checker = false;  // Reset starting player to X
     }
 
-    public void btnRNewGame_Click()
+    public void btnNewGame_Click()
     {
         btnResetGame_Click();
         txtPlayerO.text = "0";

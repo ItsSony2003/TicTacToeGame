@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\CodeGym\\GameUnity\\TicTacToeGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E10B223-CDF1-55C9-A117-5010398D8177}|Assembly-CSharp.csproj|e:\\codegym\\gameunity\\tictactoegame\\assets\\scripts\\tictactoescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E10B223-CDF1-55C9-A117-5010398D8177}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tictactoescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTacToeScript.cs",
+              "DocumentMoniker": "E:\\CodeGym\\GameUnity\\TicTacToeGame\\Assets\\Scripts\\TicTacToeScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TicTacToeScript.cs",
+              "ToolTip": "E:\\CodeGym\\GameUnity\\TicTacToeGame\\Assets\\Scripts\\TicTacToeScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TicTacToeScript.cs",
+              "ViewState": "AQIAAAYCAAAAAAAAAAAAAMEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T16:21:02.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
